@@ -12,7 +12,7 @@
   
  <br/>
   
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+<img src="https://simpleicons.org/icons/python.svg/badge/Python-ffffff?style=flat&logo=Python&logoColor=000000"/>
  
    <br/>
    <br/>
