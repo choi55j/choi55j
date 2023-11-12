@@ -18,10 +18,7 @@
 
    <br/>
    <br/>
- 
-#### :pencil2: Study log
- 
-  <br/>
+
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi55j&layout=compact)](https://github.com/choi55j/python)
   
