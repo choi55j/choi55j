@@ -12,7 +12,7 @@
   
  <br/>
   
-<a href="https://github.com/choi55j/python" target="_blank"><img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=https://simpleicons.org/icons/python.svg&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
  
    <br/>
    <br/>
