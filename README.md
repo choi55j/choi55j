@@ -22,7 +22,7 @@
  
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi55j&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi55j&layout=compact)](https://https://github.com/choi55j/python/github-readme-stats)
   
 
 </div>
